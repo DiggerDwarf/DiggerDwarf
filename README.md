@@ -21,4 +21,4 @@ The funny thing is that i coded that during a long car ride when i was bored heh
 I've still got no fancy naming skills, that's in my <a href=https://github.com/DiggerDwarf/sand>`sand`</a> repository.
 
 I coded a small file format <a href=https://github.com/DiggerDwarf/converter>converter</a> (currently supports read/write for `.bmp`, `.qoi` and `.wav`)...\
-Idk i find it neat and i might come back to it later ...?\
+Idk i find it neat and i might come back to it later ...?
