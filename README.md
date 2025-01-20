@@ -8,15 +8,15 @@ I'm trying to do most of the stuff myself to learn stuff (except handling the Wi
 <br>
 
 Languages :\
-<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg></img>
-<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg></img>
-<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg></img>
-<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg></img>
+<a href=https://en.cppreference.com/w/c/language><img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg></img></a>
+<a href=https://en.cppreference.com/w/cpp/language><img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg></img></a>
+<a href=https://www.python.org/><img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg></img></a>
+<a href=https://www.opengl.org/><img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg></img></a>
 <br>
 Frameworks :\
-<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg></img>
-<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg></img>
-<img width=5% src=https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg></img>
+<a href=https://github.com/><img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg></img></a>
+<a href=https://code.visualstudio.com/><img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg></img></a>
+<a href=https://www.sfml-dev.org/><img width=5% src=https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg></img></a>
 
 
 
