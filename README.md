@@ -6,6 +6,20 @@ I mostly code in C++ but i also do in python.
 
 I'm trying to do most of the stuff myself to learn stuff (except handling the Win32 API. Seriously wtf.)\
 <br>
+
+Languages :\
+<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg></img>
+<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg></img>
+<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg></img>
+<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg></img>
+<br>
+Frameworks :\
+<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg></img>
+<img width=5% src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg></img>
+<img width=5% src=https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg></img>
+
+
+
 ### Current focus : 
 Alright so rn i'm doing a particle simulation for fluid dynamics (sounds fancy but really i don't know what i'm doing)\
 And ughhhh just for that i coded a small pseudo-library to handle OpenGL and compute shaders (damn SFML for\
@@ -23,3 +37,4 @@ I've still got no fancy naming skills, that's in my <a href=https://github.com/D
 
 I coded a small file format <a href=https://github.com/DiggerDwarf/converter>converter</a> (currently supports read/write for `.bmp`, `.qoi` and `.wav`)...\
 Idk i find it neat and i might come back to it later ...?
+
