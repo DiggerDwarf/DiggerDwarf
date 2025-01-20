@@ -8,7 +8,8 @@ I'm trying to do most of the stuff myself to learn stuff (except handling the Wi
 <br>
 ### Current focus : 
 Alright so rn i'm doing a particle simulation for fluid dynamics (sounds fancy but really i don't know what i'm doing)\
-And ughhhh just for that i coded a small pseudo-library to handle OpenGL and compute shaders (damn SFML for not doing it `:sad_face:`)
+And ughhhh just for that i coded a small pseudo-library to handle OpenGL and compute shaders (damn SFML for\
+not doing it `:sad_face:`)\
 So umm all of that is in <a href=https://github.com/DiggerDwarf/particles>`particles`</a>
 
 
