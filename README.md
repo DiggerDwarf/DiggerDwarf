@@ -5,6 +5,8 @@ I'm a computer science student.
 I mostly code in C++ but i also do in python.
 
 I'm trying to do most of the stuff myself to learn stuff (except handling the Win32 API. Seriously wtf.)\
+<i>Edit: I took my chances. I am trying the Win32 API.<br>
+If you do not see me again, you know why...</i>
 <br>
 
 Languages :\
