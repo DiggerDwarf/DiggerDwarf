@@ -24,7 +24,7 @@ Frameworks :\
 
 ### Current focus : 
 I'm currently learning the Win32 and OpenGL APIs and putting it into practice to make my own <a href="https://github.com/DiggerDwarf/window">windowing + rendering library</a> with (hopefully) 0 dependencies.\
-So far i've only used GLEW to load OpenGL functions, but that can be removed later without too much trouble (or at least I hope so...)\
+So far i've only used GLEW to load OpenGL functions, but that can be removed later without too much trouble (or at least I hope so...)
 
 ### Other projects :
 Alright so my previous focus was coding a particle simulation for fluid dynamics (sounds fancy but really i don't know what i'm doing)\
