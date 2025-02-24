@@ -23,13 +23,13 @@ Frameworks :\
 
 
 ### Current focus : 
-Alright so rn i'm doing a particle simulation for fluid dynamics (sounds fancy but really i don't know what i'm doing)\
-And ughhhh just for that i coded a small pseudo-library to handle OpenGL and compute shaders (damn SFML for\
-not doing it `:sad_face:`)\
-So umm all of that is in <a href=https://github.com/DiggerDwarf/particles>`particles`</a>
-
+I'm currently learning the Win32 and OpenGL APIs and putting it into practice to make my own <a href="https://github.com/DiggerDwarf/window">windowing + rendering library</a> with (hopefully) 0 dependencies.\
+So far i've only used GLEW to load OpenGL functions, but that can be removed later without too much trouble (or at least I hope so...)\
 
 ### Other projects :
+Alright so my previous focus was coding a particle simulation for fluid dynamics (sounds fancy but really i don't know what i'm doing)\
+So umm all of that is in <a href=https://github.com/DiggerDwarf/particles>`particles`</a>
+
 Also I coded my own little 3D render engine in C++, and i'm kind of proud of it !!\
 You can check it out in my <a href=https://github.com/DiggerDwarf/Model-Rendering>`Model-Rendering`</a> repository ! *Or not... if you despise me that much...*
 
@@ -37,5 +37,3 @@ Another little project i'm proud of is a little falling sand engine !\
 The funny thing is that i coded that during a long car ride when i was bored hehe\
 I've still got no fancy naming skills, that's in my <a href=https://github.com/DiggerDwarf/sand>`sand`</a> repository.
 
-I coded a small file format <a href=https://github.com/DiggerDwarf/converter>converter</a> (currently supports read/write for `.bmp`, `.qoi` and `.wav`)...\
-Idk i find it neat and i might come back to it later ...?
